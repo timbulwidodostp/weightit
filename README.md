@@ -1,6 +1,8 @@
 # weightit
 Entropy balancing Use weightit (WeightIt) With (In) R Software
 
+https://www.youtube.com/watch?v=9-4wlfeYxsI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
